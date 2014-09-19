@@ -10,6 +10,8 @@ set :repo_url, 'git@github.com:Current360/rails-blog.git'
 # Default deploy_to directory is /var/www/my_app
 set :deploy_to, '/home/websites/blog'
 
+set :ssh_options, { :forward_agent => true }
+
 # Default value for :scm is :git
 # set :scm, :git
 

@@ -1,0 +1,227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"foo",
+				"footerTweets"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"page-d",
+				"page-id-512"
+			],
+			[
+				"borde",
+				"border-width"
+			],
+			[
+				"sma",
+				"small-block-grid-2"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"page",
+				"page-id-512"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nathanspry/ruby/testblog/Gemfile",
+		"/Users/nathanspry/ruby/testblog/Capfile",
+		"/Users/nathanspry/Desktop/Rails/c360/app/assets/stylesheets/application.css.scss",
+		"/Users/nathanspry/ruby/testblog/app/assets/stylesheets/_posts.css.scss",
+		"/Users/nathanspry/ruby/testblog/app/assets/stylesheets/application.css",
+		"/Users/nathanspry/Desktop/Rails/c360/app/controllers/posts_controller.rb",
+		"/Users/nathanspry/ruby/testblog/app/views/posts/create.html.erb",
+		"/Users/nathanspry/ruby/testblog/config/routes.rb",
+		"/Users/nathanspry/Desktop/sites/belle/festivalofboats/wp-content/themes/boilerplate/eventsList.php",
+		"/Users/nathanspry/Desktop/sites/belle/IE/6-18.csv",
+		"/Users/nathanspry/Desktop/sites/belle/festivalofboats/wp-content/themes/boilerplate/sftp-config.json",
+		"/Users/nathanspry/Desktop/sites/belle/festivalofboats/eventsList.php",
+		"/Users/nathanspry/Desktop/sites/belle/festivalofboats/cruiseList.php",
+		"/Users/nathanspry/Desktop/sites/belle/IE/cruiseList.php",
+		"/Users/nathanspry/Desktop/sites/belle/IE/eventsList.php",
+		"/Users/nathanspry/Desktop/sites/belle/IE/tickets.php",
+		"/Users/nathanspry/Desktop/sites/belle/IE/parse2.php",
+		"/Users/nathanspry/Desktop/sites/belle/festivalofboats/wp-content/themes/boilerplate/parse2.php",
+		"/Users/nathanspry/Desktop/sites/belle/festivalofboats/wp-content/themes/boilerplate/tickets.php",
+		"/Users/nathanspry/Desktop/sites/belle/festivalofboats/wp-content/themes/boilerplate/6-18.csv",
+		"/Users/nathanspry/Desktop/sites/belle/festivalofboats/wp-content/themes/boilerplate/style.css",
+		"/Users/nathanspry/Desktop/sites/belle/festivalofboats/wp-content/themes/boilerplate/intPages.php",
+		"/Users/nathanspry/Desktop/sites/belle/IE/intPages.php",
+		"/Users/nathanspry/Desktop/sites/belle/IE/sidebar-int.php",
+		"/Users/nathanspry/Desktop/sites/belle/IE/style.css",
+		"/Users/nathanspry/Desktop/sites/belle/festivalofboats/wp-content/themes/boilerplate/sidebar-int.php",
+		"/Users/nathanspry/Desktop/sites/belle/festivalofboats/wp-content/style.css",
+		"/Users/nathanspry/Desktop/sites/belle/festivalofboats/wp-content/themes/boilerplate/intNav.php",
+		"/Users/nathanspry/Desktop/sites/belle/IE/sftp-config.json",
+		"/Users/nathanspry/Desktop/sites/belle/festivalofboats/wp-content/themes/boilerplate/cruiseList.php",
+		"/Users/nathanspry/Desktop/sites/belle/festivalofboats/wp-content/themes/boilerplate/4-28.csv",
+		"/Users/nathanspry/Desktop/sites/belle/festivalofboats/sftp-config.json",
+		"/Users/nathanspry/Desktop/sites/55k/55K/wp-content/themes/boilerplate/footer.php",
+		"/Users/nathanspry/Desktop/sites/55k/55K/wp-content/themes/boilerplate/home_old.php",
+		"/Users/nathanspry/Desktop/sites/55k/55K/wp-content/themes/boilerplate/home.php",
+		"/Users/nathanspry/Desktop/sites/55K/wp-config.php",
+		"/Users/nathanspry/Desktop/sites/55K/index_old.html",
+		"/Users/nathanspry/Desktop/sites/55k/55K/wp-content/themes/boilerplate/footer.html",
+		"/Users/nathanspry/Desktop/CPL2014/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"alt=\"\"",
+			"src=\"",
+			"1040",
+			"sold",
+			"k-3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/",
+			"style=\"display:block; line-height: 50%; vertical-align: top;\" src=\"http://tumbleweedrestaurants.com/attachments/2014/09/",
+			"style=\"display:block; line-height: 50%; vertical-align: top;\" src=\"http://tumbleweedrestaurants.com/attachments/2014/02/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 406.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true
+}

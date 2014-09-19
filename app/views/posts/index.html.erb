@@ -1,0 +1,19 @@
+<h1>Hello Current360</h1>
+<p>Welcome to our first ever Ruby on Rails (or Rails on Ruby as Nick prefers) application. Feel free to leave us encouring notes (or curse us out) in the boxes below and it will show up to the right.</p>
+
+<div class="westside">
+	<%= form_for @post do |post| %>
+		<%= post.label :title %><br>
+		<%= post.text_field :title %><br>
+		<%= post.label :content %><br>
+		<%= post.text_area :content %><br><br>
+		<%= post.submit %>
+	<% end %>
+</div>
+
+<div class="eastside">
+	<% @posts.each do |post| %>
+		<h2><%= post.title %></h2>
+		<p><%= post.content %></p>
+	<% end %>
+</div>
